@@ -5,9 +5,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 **Penetration tester / Offensive Security Engineer**
+- 🔭 **Penetration tester / Web3 Security researcher**
 
 - 🌱 I’m currently performing **Web, Mobile and Network Pentest.**
+
+- 💡Researching **Quantum Resilient security** and **AI/ML attack vectors**. 
 
 - 📫 How to reach me **ayushman2000@outlook.com**
 
