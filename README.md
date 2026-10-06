@@ -11,7 +11,7 @@
 
 - 💡Researching **Quantum Resilient security** and **AI/ML attack vectors**. 
 
-- 📫 How to reach me **ayushman2000@outlook.com**
+- 📫 How to reach me **hello@aayushman.xyz**
 
 - ⚡ Fun fact **I like to make music (FL GANG)**
 
