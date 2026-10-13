@@ -7,13 +7,13 @@
 
 - 🔭 **Penetration tester / Web3 Security researcher**
 
-- 🌱 I’m currently performing **Web, Mobile and Network Pentest.**
+- 🌱 I’m currently performing **Web, Mobile and Network Pentest.**, **Smart Contract Audits**, and **Fullstack (Web3) Development**
 
 - 💡Researching **Quantum Resilient security** and **AI/ML attack vectors**. 
 
 - 📫 How to reach me **hello@aayushman.xyz**
 
-- ⚡ Fun fact **I like to make music (FL GANG)**
+- ⚡ Fun fact **I like to make music (FL STUDIO FTW)**
 
 ## 🚀 Languages and Tools:
 
